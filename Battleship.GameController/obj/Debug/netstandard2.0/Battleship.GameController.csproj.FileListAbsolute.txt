@@ -1,9 +1,0 @@
-/Users/pgoetz/Projects/PSD/courseware/PSD/Case Studies/Battleship/Source/Battleship_DotNetCore/Battleship.GameController/bin/Debug/netstandard2.0/Battleship.GameController.deps.json
-/Users/pgoetz/Projects/PSD/courseware/PSD/Case Studies/Battleship/Source/Battleship_DotNetCore/Battleship.GameController/bin/Debug/netstandard2.0/Battleship.GameController.dll
-/Users/pgoetz/Projects/PSD/courseware/PSD/Case Studies/Battleship/Source/Battleship_DotNetCore/Battleship.GameController/bin/Debug/netstandard2.0/Battleship.GameController.pdb
-/Users/pgoetz/Projects/PSD/courseware/PSD/Case Studies/Battleship/Source/Battleship_DotNetCore/Battleship.GameController/obj/Debug/netstandard2.0/Battleship.GameController.csprojAssemblyReference.cache
-/Users/pgoetz/Projects/PSD/courseware/PSD/Case Studies/Battleship/Source/Battleship_DotNetCore/Battleship.GameController/obj/Debug/netstandard2.0/Battleship.GameController.csproj.CoreCompileInputs.cache
-/Users/pgoetz/Projects/PSD/courseware/PSD/Case Studies/Battleship/Source/Battleship_DotNetCore/Battleship.GameController/obj/Debug/netstandard2.0/Battleship.GameController.AssemblyInfoInputs.cache
-/Users/pgoetz/Projects/PSD/courseware/PSD/Case Studies/Battleship/Source/Battleship_DotNetCore/Battleship.GameController/obj/Debug/netstandard2.0/Battleship.GameController.AssemblyInfo.cs
-/Users/pgoetz/Projects/PSD/courseware/PSD/Case Studies/Battleship/Source/Battleship_DotNetCore/Battleship.GameController/obj/Debug/netstandard2.0/Battleship.GameController.dll
-/Users/pgoetz/Projects/PSD/courseware/PSD/Case Studies/Battleship/Source/Battleship_DotNetCore/Battleship.GameController/obj/Debug/netstandard2.0/Battleship.GameController.pdb
