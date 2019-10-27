@@ -24,7 +24,7 @@ steps:
   displayName: Build
   inputs:
     projects: '**/*.sln'
-    arguments: '--configuration $(BuildConfiguration) --output $(build.artifactstagingdirectory) -r win10-x64'
+    arguments: '--configuration $(BuildConfiguration) --output $(build.artifactstagingdirectory)'
 
 - task: DotNetCoreCLI@2
   displayName: Test
