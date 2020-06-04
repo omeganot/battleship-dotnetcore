@@ -30,8 +30,9 @@ steps:
   displayName: Test
   inputs:
     command: test
-    projects: '**/*[Tt]ests/*.csproj'
-        '**/*ATDD/*.csproj'            
+    projects: |
+      '**/*[Tt]ests/*.csproj'
+      '**/*ATDD/*.csproj'            
     arguments: '--configuration $(BuildConfiguration)'
 
 - task: PublishBuildArtifacts@1
