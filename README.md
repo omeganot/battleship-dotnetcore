@@ -33,9 +33,14 @@ dotnet run
 ```
 
 # Execute Tests
-There is a ExecuteTests.ps1 file which can be used to execute the tests. You can also run the tests by executing the tests within the test project with
+You can run tests on the console by using
 ```bash
 dotnet test 
+```
+
+If you want to run tests within VSCode, you can install the [].NET Core Test Explorer Extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer). In this case make sure, you set the Propery "Test Project Path" in the extension setting to this value:
+```bash
+**/*[Test|ATDD]*/*.csproj
 ```
 
 
