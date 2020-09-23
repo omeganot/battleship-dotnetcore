@@ -2,12 +2,21 @@ image: mcr.microsoft.com/dotnet/core/sdk:3.1
 
 stages: 
   - test
+  - build
   - analyze
 
 unit test:
   stage: test
   script:
   - dotnet test
+
+build: 
+  stage: build
+  script: 
+    - dotnet build --output ./build/
+  artifacts:
+    paths:
+      - ./build/
 
 sonar:
   stage: analyze
