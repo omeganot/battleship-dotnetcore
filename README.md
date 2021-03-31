@@ -1,4 +1,4 @@
-[![Build status](https://psdstewards.visualstudio.com/PSD/_apis/build/status/proscrumdev.battleship-dotnetcore-CI)](https://psdstewards.visualstudio.com/PSD/_build/latest?definitionId=13)
+[![Build status](https://dev.azure.com/APS-SD-Stewards/APS-SD/_apis/build/status/proscrumdev.battleship-dotnetcore-CI)](https://dev.azure.com/APS-SD-Stewards/APS-SD/_build/latest?definitionId=13)
 
 # Build the application 
 In the root folder of the application there is a Battleship.sln which can be used to build all projects by executing
