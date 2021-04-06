@@ -29,7 +29,10 @@ steps:
 - task: DotNetCoreCLI@2
   displayName: Test
   inputs:
-    command: test    
+    command: test
+    projects: |
+      **/*[Tt]ests/*.csproj
+      **/*ATDD/*.csproj
     arguments: '--configuration $(BuildConfiguration)'
 
 - task: PublishBuildArtifacts@1
